@@ -34,7 +34,7 @@ public ChromeDriver driver;
 	public void valid_url() throws Throwable 
 	{	
 		driver.get("https://facebook.com");
-		result.write("url test paeed");
+		result.write("url test passed");
 	    System.out.println("entered valid url");
 	}
 
