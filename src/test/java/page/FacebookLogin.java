@@ -28,7 +28,7 @@ public class FacebookLogin
 	}
 	public void upw()
 	{
-		upw.sendKeys("ratnam@33");
+		upw.sendKeys("ratnam");
 	}
 	public void next()
 	{
